@@ -43,7 +43,7 @@ namespace GorselP2Ders9
             }
             else
             {
-                MessageBox.Show("Kullanıcı Adı veya Şifre YANLIŞ!!!!");
+                MessageBox.Show("Kullanıcı Adı veya Şifre YANLIŞ!!!");
             }
 
         }
