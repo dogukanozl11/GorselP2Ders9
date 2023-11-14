@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorselP2Ders9", "GorselP2Ders9\GorselP2Ders9.csproj", "{594A647F-6039-40D4-86DD-F0DD72A45854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorselP2Ders9.2", "..\GorselP2Ders9.2\GorselP2Ders9.2.csproj", "{4C88D679-E1B7-4DAE-9564-CD952A8FEC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594A647F-6039-40D4-86DD-F0DD72A45854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594A647F-6039-40D4-86DD-F0DD72A45854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594A647F-6039-40D4-86DD-F0DD72A45854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594A647F-6039-40D4-86DD-F0DD72A45854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C88D679-E1B7-4DAE-9564-CD952A8FEC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C88D679-E1B7-4DAE-9564-CD952A8FEC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C88D679-E1B7-4DAE-9564-CD952A8FEC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C88D679-E1B7-4DAE-9564-CD952A8FEC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09146336-0A0B-4C4F-87C8-49CC866982CA}
+	EndGlobalSection
+EndGlobal
