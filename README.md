@@ -14,7 +14,6 @@
 
 
 
-
 ![Ekran görüntüsü 2023-11-15 093828](https://github.com/dogukanozl11/GorselP2Ders9/assets/62712086/d3645cb7-f8cd-43aa-8e4b-79030bef5c24)
 
   
