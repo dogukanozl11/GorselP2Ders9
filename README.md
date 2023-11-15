@@ -1,8 +1,7 @@
 # GorselP2Ders9
 
 
-![Ekran görüntüsü 2023-11-15 093311](https://github.com/dogukanozl11/GorselP2Ders9/assets/62712086/3ede5c73-7c14-4aae-b6a4-9693a4403448)
-
+![Login](Login.png)
 
 
 ![Ekran görüntüsü 2023-11-15 093419](https://github.com/dogukanozl11/GorselP2Ders9/assets/62712086/88f764e1-8238-4832-8fbf-051b337635a4)
