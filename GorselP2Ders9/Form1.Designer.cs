@@ -87,9 +87,9 @@
             this.groupBox1.Controls.Add(this.textBoxSifre);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.btnGiris);
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Location = new System.Drawing.Point(198, 108);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(230, 172);
+            this.groupBox1.Size = new System.Drawing.Size(230, 185);
             this.groupBox1.TabIndex = 5;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Uygulama 1";
